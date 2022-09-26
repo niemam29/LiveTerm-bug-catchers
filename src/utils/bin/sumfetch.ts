@@ -21,9 +21,9 @@ const sumfetch = async (args: string[]): Promise<string> => {
     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           -----------
       ▓▓▓   ▐▓▓   ▓▓   ▓▓▓   ▓▓▀             Team 
       ▓▓▓   ▐▓▓   ▓▓   ▓▓▓   ▓▓             * Milan                
-        ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀               <u><a>https://github.com/MilanVojnovic95</a></u>
+        ▀▓▓▄▄▀▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀               <u><a>https://github.com/MilanVojnovic95</a></u>
                                             * Phillip
-            ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                  <u><a>https://github.com/Filipv95</a></u>
+            ▀▓▓▓▓▓▓▓▓▓▓▓▀                   <u><a>https://github.com/Filipv95</a></u>
                                             * Kacper
                                             <u><a>https://github.com/niemam29</a></u>
 
