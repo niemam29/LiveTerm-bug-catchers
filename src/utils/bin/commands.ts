@@ -140,7 +140,7 @@ export const sudo = async (args?: string[]): Promise<string> => {
 // Banner
 export const banner = (args?: string[]): string => {
   return `
-Wlecome to WEB 3.0 QA Squad
+Welcome to WEB 3.0 QA Squad
 
 
   ██████╗ ██╗   ██╗ ██████╗      ██████╗ █████╗ ████████╗ ██████╗██╗  ██╗███████╗██████╗ ███████╗
