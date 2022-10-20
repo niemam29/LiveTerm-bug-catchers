@@ -1,11 +1,16 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  
   "title": "Bug Catchers",
   "name": "Bug Catchers",
   "ascii": "Bug Catchers",
   "social": {
     "discord": "https://discord.gg/35fMGGBCHH",
-    "twitter": "twitter"
+    "twitter": "https://twitter.com/CatchersBug"
+  },
+  "github": {
+    "milan": "https://github.com/MilanVojnovic95",
+    "phillip": "https://github.com/Filipv95",
+    "kacper": "https://github.com/niemam29"
   },
   "email": "bugcatcher.web3@gmail.com",
   "ps1_hostname": "bug-catchers",
