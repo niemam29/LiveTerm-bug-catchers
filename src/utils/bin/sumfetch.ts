@@ -15,7 +15,7 @@ const sumfetchSmall = `
    CONTACT 
    <u><a href="mailto:${config.email}" target="_blank">${config.email}</a></u>
    <u><a href="https://github.com/${config.social.discord}" target="_blank">${config.social.discord}</a></u>
- 
+   <u><a href="${config.social.twitter}" target="_blank">${config.social.twitter}</a></u>
   -----------
    Team 
   * Milan                
