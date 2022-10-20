@@ -151,7 +151,25 @@ Welcome to WEB 3.0 QA Squad
   ╚═════╝  ╚═════╝  ╚═════╝      ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
                                                                                                  
 
-Type 'help' to see the list of available commands.
+Type 'about' to read more about us.
+Type 'sumfetch' to display summary.
+`;
+};
+
+// Small Banner
+export const smallBanner = (args?: string[]): string => {
+  return `
+Welcome to WEB 3.0 QA Squad
+
+
+  ██████╗      ██████╗
+  ██╔══██╗    ██╔════╝
+  ██████╔╝    ██║     
+  ██╔══██╗    ██║     
+  ██████╔╝    ╚██████╗
+  ╚═════╝      ╚═════╝
+                                                                                                 
+
 Type 'about' to read more about us.
 Type 'sumfetch' to display summary.
 `;
